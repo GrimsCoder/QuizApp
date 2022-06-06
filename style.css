@@ -1,0 +1,102 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("./images/intropage.png");
+  background-color: F5F7FB;
+  font-family: "Karla";
+}
+
+.videoTag {
+  max-width: 750px;
+  max-height: 500px;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.main-start {
+  background-color: F5F7FB;
+  font-size: 20px;
+  display: flex;
+  padding-top: 100px;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.start-button {
+  width: 193px;
+  height: 52px;
+  margin: 0 auto;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #4d5b9e;
+  font-size: 10px;
+  color: white;
+  cursor: pointer;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  font-size: 15px;
+}
+.quiz {
+  padding: 10px 10px;
+}
+
+.quiz-answer {
+  border-radius: 7.71045px;
+  margin: 5px;
+  border: 0.771045px solid #4d5b9e;
+  padding: 2px 15px;
+  max-width: 250px;
+  box-sizing: border-box;
+}
+
+.white-btn {
+  background: white;
+}
+
+.blue-btn {
+  background: #d6dbf5;
+}
+
+.green-btn {
+  background: #94d7a2;
+}
+
+.red-btn {
+  background: #f8bcbc;
+}
+
+.restart {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-bottom: 25px;
+  align-items: center;
+  font-size: 20px;
+}
+
+.restart-btn {
+  width: 125px;
+  height: 35px;
+  margin-left: 5px;
+  background: #4d5b9e;
+  border-radius: 10px;
+  font-size: 18px;
+  text-align: center;
+}
+
+.submit-btn {
+  background: #4d5b9e;
+  border-radius: 10px;
+  justify-content: center;
+  padding: 5px 25px;
+  width: 120px;
+  height: 35px;
+  text-align: center;
+  display: flex;
+  margin: 10px auto;
+  margin-bottom: 25px;
+  font-size: 18px;
+}

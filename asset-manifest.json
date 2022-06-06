@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/GrimsCoder/QuizApp/static/js/main.dd5d8c47.js",
+    "static/media/videostuff.mp4": "/GrimsCoder/QuizApp/static/media/videostuff.c2638a6b2728ccac6f59.mp4",
+    "index.html": "/GrimsCoder/QuizApp/index.html",
+    "main.dd5d8c47.js.map": "/GrimsCoder/QuizApp/static/js/main.dd5d8c47.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.dd5d8c47.js"
+  ]
+}
