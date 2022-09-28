@@ -1,5 +1,5 @@
 import React from "react";
-import Video from "./Video/videostuff.mp4";
+import Video from "./videostuff.mp4";
 
 export default function Start(props) {
   return (
